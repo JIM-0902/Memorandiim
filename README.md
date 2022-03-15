@@ -1,7 +1,11 @@
 # Memorandim
+
 整體架構:結合HTML+CSS+JavaScript
+
 HTML : 網頁的內容，給予頁面完整的內容架構並增加語意。
+
 CSS  : 網頁的樣式，增加HTML頁面的表現方式。
+
 JavaScript : 網頁的行為，增加使用者與網頁間的互動。
 
 main.html + index.css : 為前端網頁的配置及設計。
